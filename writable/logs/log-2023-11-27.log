@@ -1,0 +1,533 @@
+INFO - 2023-11-27 12:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-27 05:14:37 --> Invalid file: "agenda/view_agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:20:59 --> Invalid file: "agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:21:03 --> Invalid file: "agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:23:00 --> Invalid file: "agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:24:06 --> Invalid file: "agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:25:03 --> Invalid file: "agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:29:13 --> Invalid file: "agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:31:33 --> Invalid file: "agenda/view_agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:34:38 --> Invalid file: "agenda/view_agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:39:57 --> Invalid file: "agenda/view_agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:41:25 --> Invalid file: "agenda/view_agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:42:38 --> Invalid file: "agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:42:52 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:43:44 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:46:44 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:46:46 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:49:12 --> Invalid file: "agenda/view_agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agenda/view_agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('agenda/view_agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('agenda/view_agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:50:25 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:50:26 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:50:26 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:50:27 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:50:27 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:50:27 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+CRITICAL - 2023-11-27 05:50:27 --> Invalid file: "Agenda/view_Agenda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Agenda/view_Agenda.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('Agenda/view_Agenda', [], true)
+ 3 APPPATH\Controllers\Agenda.php(15): view('Agenda/view_Agenda', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\agenda->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+INFO - 2023-11-27 12:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 12:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-11-27 05:54:58 --> mysqli_sql_exception: Unknown column 'nama_agenda' in 'field list' in D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda(Array)
+#6 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(919): App\Controllers\Agenda->save()
+#7 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+#8 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\K...')
+#11 {main}
+CRITICAL - 2023-11-27 05:54:58 --> Unknown column 'nama_agenda' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_agenda` (`id_agenda`, `nama_agenda`, `tanggal`, `jam`) VALUES (:id_agenda:, :nama_agenda:, :tanggal:, :jam:)', [...], false)
+ 2 APPPATH\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+ERROR - 2023-11-27 05:55:43 --> mysqli_sql_exception: Unknown column 'nama_agenda' in 'field list' in D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda(Array)
+#6 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(919): App\Controllers\Agenda->save()
+#7 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+#8 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\K...')
+#11 {main}
+CRITICAL - 2023-11-27 05:55:43 --> Unknown column 'nama_agenda' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_agenda` (`id_agenda`, `nama_agenda`, `tanggal`, `jam`) VALUES (:id_agenda:, :nama_agenda:, :tanggal:, :jam:)', [...], false)
+ 2 APPPATH\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+ERROR - 2023-11-27 05:56:43 --> mysqli_sql_exception: Unknown column 'nama_agenda' in 'field list' in D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda(Array)
+#6 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(919): App\Controllers\Agenda->save()
+#7 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+#8 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\K...')
+#11 {main}
+CRITICAL - 2023-11-27 05:56:43 --> Unknown column 'nama_agenda' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_agenda` (`id_agenda`, `nama_agenda`, `tanggal`, `jam`) VALUES (:id_agenda:, :nama_agenda:, :tanggal:, :jam:)', [...], false)
+ 2 APPPATH\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+ERROR - 2023-11-27 05:57:17 --> mysqli_sql_exception: Unknown column 'nama_kegiatan' in 'field list' in D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda(Array)
+#6 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(919): App\Controllers\Agenda->save()
+#7 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+#8 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\K...')
+#11 {main}
+CRITICAL - 2023-11-27 05:57:17 --> Unknown column 'nama_kegiatan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_agenda` (`id_agenda`, `nama_kegiatan`, `tanggal`, `jam`) VALUES (:id_agenda:, :nama_kegiatan:, :tanggal:, :jam:)', [...], false)
+ 2 APPPATH\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+ERROR - 2023-11-27 05:58:19 --> mysqli_sql_exception: Unknown column 'nama_kegiatan' in 'field list' in D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda(Array)
+#6 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(919): App\Controllers\Agenda->save()
+#7 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+#8 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\K...')
+#11 {main}
+CRITICAL - 2023-11-27 05:58:19 --> Unknown column 'nama_kegiatan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_agenda` (`id_agenda`, `nama_kegiatan`, `tanggal`, `jam`) VALUES (:id_agenda:, :nama_kegiatan:, :tanggal:, :jam:)', [...], false)
+ 2 APPPATH\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+ERROR - 2023-11-27 05:58:46 --> mysqli_sql_exception: Unknown column 'nama_kegiatan' in 'field list' in D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda(Array)
+#6 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(919): App\Controllers\Agenda->save()
+#7 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+#8 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\K...')
+#11 {main}
+CRITICAL - 2023-11-27 05:58:46 --> Unknown column 'nama_kegiatan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_agenda` (`id_agenda`, `nama_kegiatan`, `tanggal`, `jam`) VALUES (:id_agenda:, :nama_kegiatan:, :tanggal:, :jam:)', [...], false)
+ 2 APPPATH\Models\ModelAgenda.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Agenda.php(40): App\Models\ModelAgenda->saveagenda([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+INFO - 2023-11-27 13:02:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-11-27 06:06:27 --> mysqli_sql_exception: Unknown column 'nama_agenda' in 'field list' in D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `tbl_age...', 0)
+#1 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `tbl_age...')
+#2 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `tbl_age...')
+#3 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `tbl_age...', Array, false)
+#4 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Models\ModelAgenda.php(28): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Controllers\Agenda.php(60): App\Models\ModelAgenda->updateagenda(Array, 'A-0002')
+#6 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(919): App\Controllers\Agenda->update()
+#7 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+#8 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\K...')
+#11 {main}
+CRITICAL - 2023-11-27 06:06:27 --> Unknown column 'nama_agenda' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `tbl_agenda` SET `nama_agenda` = :nama_agenda:, `tanggal` = :tanggal:, `jam` = :jam:
+WHERE `id_agenda` = :id_agenda:', [...], false)
+ 2 APPPATH\Models\ModelAgenda.php(28): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 3 APPPATH\Controllers\Agenda.php(60): App\Models\ModelAgenda->updateagenda([...], 'A-0002')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->update()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+INFO - 2023-11-27 13:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-11-27 06:08:53 --> mysqli_sql_exception: Unknown column 'nama_agenda' in 'field list' in D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `tbl_age...', 0)
+#1 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `tbl_age...')
+#2 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `tbl_age...')
+#3 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `tbl_age...', Array, false)
+#4 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Models\ModelAgenda.php(28): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Controllers\Agenda.php(60): App\Models\ModelAgenda->updateagenda(Array, 'A-0001')
+#6 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(919): App\Controllers\Agenda->update()
+#7 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+#8 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\K...')
+#11 {main}
+CRITICAL - 2023-11-27 06:08:53 --> Unknown column 'nama_agenda' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `tbl_agenda` SET `nama_agenda` = :nama_agenda:, `tanggal` = :tanggal:, `jam` = :jam:
+WHERE `id_agenda` = :id_agenda:', [...], false)
+ 2 APPPATH\Models\ModelAgenda.php(28): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 3 APPPATH\Controllers\Agenda.php(60): App\Models\ModelAgenda->updateagenda([...], 'A-0001')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->update()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+INFO - 2023-11-27 13:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-11-27 06:13:24 --> mysqli_sql_exception: Unknown column 'nama_agenda' in 'field list' in D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `tbl_age...', 0)
+#1 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `tbl_age...')
+#2 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `tbl_age...')
+#3 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `tbl_age...', Array, false)
+#4 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Models\ModelAgenda.php(28): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\app\Controllers\Agenda.php(60): App\Models\ModelAgenda->updateagenda(Array, 'A-0003')
+#6 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(919): App\Controllers\Agenda->update()
+#7 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+#8 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Data Ridho\Kuliah Ridho\Semester 5\WEB - 2 Ridho Rahman 2110026\prak1\system\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\K...')
+#11 {main}
+CRITICAL - 2023-11-27 06:13:24 --> Unknown column 'nama_agenda' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `tbl_agenda` SET `nama_agenda` = :nama_agenda:, `tanggal` = :tanggal:, `jam` = :jam:
+WHERE `id_agenda` = :id_agenda:', [...], false)
+ 2 APPPATH\Models\ModelAgenda.php(28): CodeIgniter\Database\BaseBuilder->update([...], [...])
+ 3 APPPATH\Controllers\Agenda.php(60): App\Models\ModelAgenda->updateagenda([...], 'A-0003')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Agenda->update()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agenda))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Data Ridho\\Kuliah Ridho\\Semester 5\\WEB - 2 Ridho Rahman 2110026\\prak1\\public\\index.php')
+INFO - 2023-11-27 13:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 06:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:55:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 13:58:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:22:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:46:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-27 14:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

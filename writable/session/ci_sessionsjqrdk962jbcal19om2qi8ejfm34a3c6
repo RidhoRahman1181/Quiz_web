@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1706082658;_ci_previous_url|s:41:"http://localhost:8080/index.php/pelanggan";error|s:232:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>id_pengurus Harus diisi</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:4:{s:12:"id_pelanggan";s:6:"P-0001";s:4:"nama";s:12:"Ridho Rahman";s:4:"nohp";s:11:"08121928123";s:6:"alamat";s:6:"Padang";}}_ci_validation_errors|a:1:{s:11:"id_pengurus";s:23:"id_pengurus Harus diisi";}
